@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 <br>
 
 ## side-project :point_down:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=side-project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/side-project.git) &nbsp; 
