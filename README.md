@@ -1,24 +1,15 @@
-# Hi there 👋
-<p>:sparkler: I'm a passionate software developer. Enjoy the process of programming.</p>
-<p>:mortar_board: Dedicated to developing systems that improve people's lives.</p>
-<p>:blossom: My habit is to integrate new information, manage time and money.</p>
-<p>:headphones: In my free time I enjoy listening to music.</p>
-<p>:sunny: Nice to meet you, Have a nice day.</p>
+# Software Development Portfolio
 
-<!--
-**immamy/immamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Amy 👋  
+Software Engineer | C# | Vue | Qt | .NET MAUI  
 
-Here are some ideas to get you started:
+This repository contains my software development projects, including **web development, desktop applications, cross-platform applications, and data analysis projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies: **C#, C++, Python, R, JavaScript, HTML, CSS**  
+
+Frameworks: **Vue.js, .NET MAUI, Qt Creator**
+
+Development Tools : **Visual Studio, VSCode, Git / GitHub**
   
 <br>
 
@@ -31,10 +22,14 @@ Here are some ideas to get you started:
 <img  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
 <img  src="https://github.com/immamy/immamy/blob/main/tool/c-sharp.png" alt="c-sharp" width="60" height="60"/> &nbsp;
 <img  src="https://github.com/immamy/immamy/blob/main/tool/c++.png" alt="c++" width="60" height="60"/> &nbsp;
-<img  src="https://github.com/immamy/home/blob/main/tool/Qt.png" alt="Qt" width="60" height="60"/> &nbsp;
+<img  src="https://github.com/immamy/immamy/blob/main/tool/Qt.png" alt="Qt" width="60" height="60"/> &nbsp;
 <img  src="https://github.com/immamy/immamy/blob/main/tool/Github.png" alt="Github" width="60" height="60"/> &nbsp;
 
 <br>
 
 ## side-project :point_down:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=side-project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/side-project.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=web-projects&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/web-projects.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=desktop-applications&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/desktop-applications.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=Cross-Platform-Application&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/Cross-Platform-Application.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=data-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/data-analysis.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=docs&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/docs.git) &nbsp; 
