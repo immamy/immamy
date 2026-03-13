@@ -30,6 +30,6 @@ Development Tools : **Visual Studio, VSCode, Git / GitHub**
 ## side-project :point_down:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=web-projects&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/web-projects.git) &nbsp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=desktop-applications&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/desktop-applications.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=Cross-Platform-Application&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/Cross-Platform-Application.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=cross-platform-application&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/cross-platform-application.git) &nbsp; 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=data-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/data-analysis.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=Development-Notes&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/Development-Notes.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=development-notes&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/development-notes.git) &nbsp; 
