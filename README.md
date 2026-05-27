@@ -24,7 +24,3 @@ Development Tools : **Visual Studio, VSCode, Git / GitHub**
 <img  src="https://github.com/immamy/immamy/blob/main/tool/c++.png" alt="c++" width="60" height="60"/> &nbsp;
 <img  src="https://github.com/immamy/immamy/blob/main/tool/Qt.png" alt="Qt" width="60" height="60"/> &nbsp;
 <img  src="https://github.com/immamy/immamy/blob/main/tool/Github.png" alt="Github" width="60" height="60"/> &nbsp;
-
-<br>
-
-## side-project :point_down:
