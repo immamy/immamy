@@ -28,8 +28,8 @@ Development Tools : **Visual Studio, VSCode, Git / GitHub**
 <br>
 
 ## side-project :point_down:
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=immamy&repo=web-projects&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/web-projects) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=immamy&repo=desktop-applications&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/desktop-applications) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=immamy&repo=cross-platform-application&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/cross-platform-application) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=immamy&repo=data-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/data-analysis) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=immamy&repo=development-notes&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/development-notes) &nbsp; 
+[![web-projects](https://github-readme-stats.vercel.app/api?username=immamy&repo=web-projects&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/web-projects) &nbsp; 
+[![desktop-applications](https://github-readme-stats.vercel.app/api?username=immamy&repo=desktop-applications&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/desktop-applications) &nbsp; 
+[![cross-platform-application](https://github-readme-stats.vercel.app/api?username=immamy&repo=cross-platform-application&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/cross-platform-application) &nbsp; 
+[![data-analysis](https://github-readme-stats.vercel.app/api?username=immamy&repo=data-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/data-analysis) &nbsp; 
+[![development-notes](https://github-readme-stats.vercel.app/api?username=immamy&repo=development-notes&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/development-notes) &nbsp; 
