@@ -28,8 +28,8 @@ Development Tools : **Visual Studio, VSCode, Git / GitHub**
 <br>
 
 ## side-project :point_down:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=web-projects&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/web-projects.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=desktop-applications&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/desktop-applications.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=cross-platform-application&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/cross-platform-application.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=data-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/data-analysis.git) &nbsp; 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=development-notes&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/development-notes.git) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=web-projects&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/web-projects) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=desktop-applications&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/desktop-applications) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=cross-platform-application&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/cross-platform-application) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=data-analysis&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/data-analysis) &nbsp; 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=immamy&repo=development-notes&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/immamy/development-notes) &nbsp; 
